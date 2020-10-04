@@ -38,11 +38,11 @@
         
   # Notas de clase - pronombres
    1. valores sintácticos del pronombre
-   * sin un pronombre personal aparece sin preposición funcionará de CD, sujeto o CI
-   * le y les son principalmente CI ,en casos muy extraños donde se refiera a una persona o animal puede funcionar como CD, normamente cuando esto pasa se trata de leísmo
-   * lo, normalmente como CD, puede funcionar de atributo también, sustituyendo al, fememino, y al plural, es decir, lo como atributo solo puede ser él y solo el "lo"
-   * los pronombres le y les, se combierten en se, si preceden a la, lo, las y los
-   * los pronombres recíprocos solo pueden ser plurales (obvio)
+      * sin un pronombre personal aparece sin preposición funcionará de CD, sujeto o CI
+      * le y les son principalmente CI ,en casos muy extraños donde se refiera a una persona o animal puede funcionar como CD, normamente cuando esto pasa se trata de leísmo
+      * lo, normalmente como CD, puede funcionar de atributo también, sustituyendo al, fememino, y al plural, es decir, lo como atributo solo puede ser él y solo el "lo"
+      * los pronombres le y les, se combierten en se, si preceden a la, lo, las y los
+        * los pronombres recíprocos solo pueden ser plurales (obvio)
       
         
         
