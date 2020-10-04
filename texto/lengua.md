@@ -7,7 +7,7 @@
   4. un morfema que no tiene ningún significado por su cuenta que aparece al añadirle un derivativo se denomina interfijo
   5. la parasíntesis ocurre cuando se deriva dos veces a la vez para formar una nueva palabra
   
-  # Preguntas del examen
+  ## Preguntas del examen
     temas de la preguntas del examen ofrecidos por Estéban
    Temas
     1. determinante o pronombre, ambas posibilidades, solo una posibilidad.
