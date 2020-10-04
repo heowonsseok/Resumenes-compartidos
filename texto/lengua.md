@@ -1,4 +1,5 @@
-# Morfemas
+# Tema 1
+## Morfemas
     los morfemas se dividen en derivativos (cambian el significado de la raíz) y en flexivos indican una forma de la palabra
  Reglas
   1. si la base léxica acaba en consonante o vocal acentuada, a la base léxica se le añade el derivativo
@@ -35,14 +36,15 @@
         c. deíxis: refiere a algo fuera del texto, normalmente refiere aalgo que aparece en la situación, lugar o tiempo del hablante.
       * usos extra
         los pronombres personales 1º 2º son normalmente deícticos, y el 3º anafórico (suelen ser)
+    6. sintáxis
         
-  # Notas de clase - pronombres
+  ## Notas de clase - pronombres
    1. valores sintácticos del pronombre
       * sin un pronombre personal aparece sin preposición funcionará de CD, sujeto o CI
       * le y les son principalmente CI ,en casos muy extraños donde se refiera a una persona o animal puede funcionar como CD, normamente cuando esto pasa se trata de leísmo
       * lo, normalmente como CD, puede funcionar de atributo también, sustituyendo al, fememino, y al plural, es decir, lo como atributo solo puede ser él y solo el "lo"
       * los pronombres le y les, se combierten en se, si preceden a la, lo, las y los
-        * los pronombres recíprocos solo pueden ser plurales (obvio)
+      * los pronombres recíprocos solo pueden ser plurales (obvio)
       
         
         
