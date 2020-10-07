@@ -4,3 +4,4 @@
 * Habrá secciones de resúmenes y material de estudio.
 * No se usará para el grupo Nessum Dorma, para eso está el repositorio DormaG(ames).
 * Para subir imágenes se utilizará una carpeta llamada img, de lo contrario no se aceptará la subida
+* Para reportar un error, notificar en *issues*
