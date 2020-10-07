@@ -1,10 +1,10 @@
 # Tema 1
-# Nomenclatura estequimétrica
+* Nomenclatura estequimétrica
   * Usando prefijos multiplicadores(di, tri, tetra...)para nombrar el compuesto. Ejemplo: CCl4→Tetracloruro de carbono.
   * Expresando el número de oxidación con números romanos entre paréntesis (pero solo si tiene más de uno).Ejemplo: CCl4→Cloruro de carbono (IV)
-#  Nomenclatura tradicional
+* Nomenclatura tradicional
   * Depende de la valencia del que actúa el elemento que le da nombre a la sustancia
-      * hipo-<-oso<-ico<per-
+   * hipo-<-oso<-ico<per-
         
 ## Hidruros
   * Metal + hidrógeno, actuará con el negativo
