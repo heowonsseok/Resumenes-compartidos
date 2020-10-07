@@ -48,7 +48,7 @@ fuente: ver [pdf](https://unaquimicaparatodos.com/wp-content/uploads/2016/12/Lib
      - temperatura y volumen son proporcionales
      
 # Ley combinada de los gases
- * p /* V/T es siempre constante
+ * p * V/T es siempre constante
  
 # Ley de los gases ideales
  * pV=nRT
