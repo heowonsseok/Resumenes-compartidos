@@ -33,3 +33,4 @@
   * Se le añade un metal a la fórmula
   * Los iones son irreducibles
 ---
+fuente: ver [pdf][https://unaquimicaparatodos.com/wp-content/uploads/2016/12/Libro-Principal-01.pdf]
