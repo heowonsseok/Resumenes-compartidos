@@ -19,4 +19,16 @@
     18. Action that started in the past and continued until another time in the past: past perfect continuous
     19. An event which have happened at some point in the time before something took place: past perfect
     20. An action which expresses how long something had been going on before something important happened in the past: past perfect continuous.
-UNFINISHED
+# Vocabulary and colocations
+* Colocations
+converting currency into; vary a diet; switching between channels; adapt easily to new situations; alter some clothes; radically transformed someone's life; someone is transferred; shift away from something towards another thing
+* Vocabulary
+embroiled in, awry, frittered away, to fuse, wedded, uncanny, clear- eyed prose, instalment, barrister, scrutiny, ill-at-ease
+*  Word formation
+    1. prefixes: 
+    2. sufixes: -ence, -ment, -al, -ure, -ness, -cy, -ity
+* Reference
+    This, these, those
+    
+* Extra vocabulary
+Grouchy, stall, ghoul, thang, grooming, aspen, fonz, slank, hustle, code, prune, gymbroree, boisterous, quibblying, wirrow down, lashing out, struck oil, swatches, magoon, vain, hoedown.
