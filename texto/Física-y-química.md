@@ -1,4 +1,4 @@
-# Tema 1
+# Formulación
 * Nomenclatura estequimétrica
   * Usando prefijos multiplicadores(di, tri, tetra...)para nombrar el compuesto. Ejemplo: CCl4→Tetracloruro de carbono.
   * Expresando el número de oxidación con números romanos entre paréntesis (pero solo si tiene más de uno).Ejemplo: CCl4→Cloruro de carbono (IV)
@@ -34,3 +34,23 @@
   * Los iones son irreducibles
 ---
 fuente: ver [pdf](https://unaquimicaparatodos.com/wp-content/uploads/2016/12/Libro-Principal-01.pdf)
+***
+# Leyes de los gases
+      Las leyes de los gases estudiadas son 4, relativamente sencillas ya qeu todas son de proporcionalidad ya sea inversa o directa, también sepánse que todo las variables que no aparecen simplemente son constantes
+  * Ley de Boile
+     - la asociación a hacer es una olla a presión que está *boileing*
+     - incrementa la presión cada vez que se hace más pequeño el contenedor
+  * Ley de Avogadro
+     - la asociación a hacer es que a cada aguacate le corresponde una molécula, su semilla
+     - más volumen, más semilla
+  * Ley de Charles-Gay Lussac
+     - la asociación a hacer es que cuanto más gordo se hace Charles, más se enfada su novio Gay lussac
+     - temperatura y volumen son proporcionales
+     
+# Ley combinada de los gases
+ * p /* V/T es siempre constante
+ 
+# Ley de los gases ideales
+ * pV=nRT
+ * se obtiene combinando todas las ecuaciones, nada nuevo excepto la constante R, específico de los gases
+ * R = 0.082 (atmL)/(molK)
