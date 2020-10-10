@@ -51,6 +51,7 @@ fuente: ver [pdf](https://unaquimicaparatodos.com/wp-content/uploads/2016/12/Lib
  * p * V/T es siempre constante
  
 # Ley de los gases ideales
+ + Cabe destacar que no existen los gases ideales
  * pV=nRT
  * se obtiene combinando todas las ecuaciones, nada nuevo excepto la constante R, específico de los gases
  * R = 0.082 (atmL)/(molK)
