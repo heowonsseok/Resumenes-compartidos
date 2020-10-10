@@ -53,4 +53,4 @@ fuente: ver [pdf](https://unaquimicaparatodos.com/wp-content/uploads/2016/12/Lib
 # Ley de los gases ideales
  * pV=nRT
  * se obtiene combinando todas las ecuaciones, nada nuevo excepto la constante R, específico de los gases
- * R = 0.082 (atmL)/(molK)
+ * R = 0.082 (atmL)/(molK) , en vez de usarse el cociente , lo más acertado sería escribir la fórmula como un producto; atm x L x mol^-1 x K^-1
